@@ -3307,12 +3307,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0xD61196004D51C1963c2d67620b910e4D05422883",
-      "transactionHash": "0x67bcb071f34d6c7bb711a99f057f268b07dc8caad8ecdd1e2348975cca2ba964"
+      "address": "0xf31FC172dD5549E02174F0EC42E7952b56dC8FCd",
+      "transactionHash": "0x3fd4bbaf830b5044ec546821f171c6b8e9abe930c79ab85dc294bcf52bd65d22"
     }
   },
   "schemaVersion": "3.4.9",
-  "updatedAt": "2022-09-27T14:14:10.486Z",
+  "updatedAt": "2022-10-30T20:07:40.350Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
